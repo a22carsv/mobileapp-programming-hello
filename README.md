@@ -4,9 +4,10 @@
 **Skriv din rapport här!**
 Målet med uppgiften var att byta om texten "Hello" till en egen text. För att göra detta
 forkade jag repository på github och sedan klonade min fork i android studios. Efter detta så bytte
-jag ut texten mot "My Awesome App!" i strings.xml (se bifogad bild). Slutligen skrev jag denna korta
+jag ut texten mot "My Awesome App!" i strings.xml (se bild nedan). Slutligen skrev jag denna korta
 rapport, committade, pushade och lämnade in det som krävdes.
 
+![](img.png)
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
@@ -37,7 +38,6 @@ function errorCallback(error) {
 ```
 
 Bilder läggs i samma mapp som markdown-filen.
-![](img.png)
 ![](android.png)
 
 Läs gärna:
